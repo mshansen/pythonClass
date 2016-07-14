@@ -1,0 +1,3 @@
+# Exercises for the coding in Python course
+
+This repository holds the scripts generated during the NMNH Beginning Coding in Python course.
